@@ -11,15 +11,19 @@
 	},
 	"Orbit" :
 	{
-		"semiMajorAxis" : 700,
+		"semiMajorAxis" : 386,
 		"primaryBody" : "Uranus",
 		"isMoon" : true,
-		"inclination" : 97,
-		"isTidallyLocked" : true
+		"inclination" : 0.4,
+		"eccentricity" : 0,
+		"argumentOfPeriapsis": 0,
+		"trueAnomaly": 50.1,
+		"longitudeOfAscendingNode": 216,
+		"siderealPeriod": 37
 	},
 	"ProcGen" :
 	{
-		"scale" : 20,
+		"scale" : 15,
 		"color" : 
 		{
 			"r" : 177,
