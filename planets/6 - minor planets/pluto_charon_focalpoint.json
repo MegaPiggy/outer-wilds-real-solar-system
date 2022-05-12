@@ -14,8 +14,7 @@
 		"isMoon" : false,
 		"longitudeOfAscendingNode" : 0,
 		"eccentricity" : 0.1,
-		"argumentOfPeriapsis": 0,
-		"axialTilt" : 122
+		"argumentOfPeriapsis": 0
 	},
 	"FocalPoint" :
 	{

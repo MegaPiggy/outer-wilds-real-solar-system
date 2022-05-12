@@ -12,6 +12,11 @@
 	"Orbit" :
 	{
 		"semiMajorAxis" : 500,
+		"longitudeOfAscendingNode": 223,
+		"argumentOfPeriapsis": 146.11,
+		"inclination": 120,
+		"axialTilt" : 122,
+		"siderealPeriod": 312,
 		"primaryBody" : "Pluto-Charon",
 		"isMoon" : true,
 		"isTidallyLocked" : true

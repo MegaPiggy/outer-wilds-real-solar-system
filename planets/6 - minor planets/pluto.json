@@ -14,7 +14,12 @@
 		"semiMajorAxis" : 0,
 		"primaryBody" : "Pluto-Charon",
 		"isMoon" : true,
-		"isTidallyLocked" : true
+		"isTidallyLocked" : true,
+		"eccentricity": 0.0002,
+		"axialTilt" : 122,
+		"siderealPeriod": 312,
+		"argumentOfPeriapsis": 113,
+		"longitudeOfAscendingNode": 110
 	},
 	"Atmosphere" :
 	{
