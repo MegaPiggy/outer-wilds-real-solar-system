@@ -11,7 +11,7 @@
 	},
 	"Orbit" :
 	{
-		"semiMajorAxis" : 1200,
+		"semiMajorAxis" : 654,
 		"inclination" : 156,
 		"primaryBody" : "Neptune",
 		"isMoon" : true,
@@ -19,9 +19,9 @@
 	},
 	"HeightMap" :
 	{
-		"heightMap" : "planets/assets/blank_heightmap.png",	
+		"heightMap" : "planets/assets/triton_heightmap.png",	
 		"textureMap" : "planets/assets/triton_texturemap.png",	
-		"minHeight" : 65,
+		"minHeight" : 63,
 		"maxHeight" : 65
 	}
 }
