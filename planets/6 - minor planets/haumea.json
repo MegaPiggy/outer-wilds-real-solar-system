@@ -17,7 +17,7 @@
 		"eccentricity": 0.2,
 		"longitudeOfAscendingNode": 122,
 		"argumentOfPeriapsis": 239,
-		"siderealPeriod": 0.1,
+		"siderealPeriod": 1,
 		"primaryBody" : "Sol",
 		"isMoon" : false
 	},
