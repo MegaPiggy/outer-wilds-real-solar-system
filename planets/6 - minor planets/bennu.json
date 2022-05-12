@@ -22,7 +22,7 @@
 	},
 	"HeightMap" :
 	{
-		"heightMap" : "planets/assets/bennu_heightmap.jpg",	
+		"heightMap" : "planets/assets/bennu_heightmap.png",	
 		"textureMap" : "planets/assets/bennu_texturemap.png",	
 		"minHeight" : 28,
 		"maxHeight" : 30
