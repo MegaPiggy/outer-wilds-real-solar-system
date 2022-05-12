@@ -8,7 +8,7 @@
 	},
 	"Orbit" :
 	{
-		"semiMajorAxis" : 120000,
+		"semiMajorAxis" : 180000,
 		"primaryBody" : "Sol",
 		"showOrbitLine" : false,
 		"trueAnomaly" : 60,
