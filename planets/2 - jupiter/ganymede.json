@@ -11,17 +11,22 @@
 	},
 	"Orbit" :
 	{
-		"semiMajorAxis" : 1300,
+		"semiMajorAxis" : 1270,
 		"primaryBody" : "Jupiter",
 		"isMoon" : true,
 		"trueAnomaly" : 298,
-		"isTidallyLocked" : true
+		"isTidallyLocked" : true,
+		"eccentricity": 0.001,
+		"inclination" : 2,
+		"axialTilt" : 0.33,
+		"longitudeOfAscendingNode": 59,
+		"argumentOfPeriapsis": 198.3
 	},
 	"HeightMap" :
 	{
-		"heightMap" : "planets/assets/blank_heightmap.png",	
+		"heightMap" : "planets/assets/ganymede_heightmap.png",	
 		"textureMap" : "planets/assets/ganymede_texturemap.png",	
-		"minHeight" : 100,
+		"minHeight" : 98,
 		"maxHeight" : 100
 	}
 }
