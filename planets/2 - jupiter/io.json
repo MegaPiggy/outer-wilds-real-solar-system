@@ -11,10 +11,15 @@
 	},
 	"Orbit" :
 	{
-		"semiMajorAxis" : 800,
+		"semiMajorAxis" : 921,
 		"primaryBody" : "Jupiter",
 		"isMoon" : true,
-		"isTidallyLocked" : true
+		"isTidallyLocked" : true,
+		"eccentricity": 0.004,
+		"inclination" : 2.2,
+		"trueAnomaly": 331,
+		"longitudeOfAscendingNode": 0,
+		"argumentOfPeriapsis": 49,
 	},
 	"Atmosphere" :
 	{
@@ -31,7 +36,7 @@
 	},
 	"HeightMap" :
 	{
-		"heightMap" : "planets/assets/blank_heightmap.png",	
+		"heightMap" : "planets/assets/io_heightmap.png",	
 		"textureMap" : "planets/assets/io_texturemap.png",	
 		"minHeight" : 75,
 		"maxHeight" : 75
