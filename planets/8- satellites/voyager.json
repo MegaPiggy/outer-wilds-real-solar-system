@@ -13,6 +13,7 @@
 		"semiMajorAxis" : 10000,
 		"primaryBody" : "Proxima Centauri",
 		"showOrbitLine" : true,
+		"dottedOrbitLine": true,
 		"eccentricity" : 0.5
 	},
 	"Signal" : 
