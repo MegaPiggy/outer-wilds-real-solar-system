@@ -19,6 +19,10 @@
 		"axialTilt" : 0,
 		"trueAnomaly" : 0,
 		"isTidallyLocked" : true,
+	},
+	"Atmosphere" :
+	{
+		"size" : 200,
 		"hasAtmosphere" : true,
 		"atmosphereTint" : 
 		{
@@ -30,8 +34,8 @@
 	},
 	"HeightMap" :
 	{
-		"heightMap" : "planets/assets/venus_heightmap.png",	
-		"textureMap" : "planets/assets/Alpha Centauri Ab.png",	
+		"heightMap" : "planets/assets/venus_heightmap.png",
+		"textureMap" : "planets/assets/Alpha Centauri Ab.png",
 		"minHeight" : 150,
 		"maxHeight" : 153
 	}
