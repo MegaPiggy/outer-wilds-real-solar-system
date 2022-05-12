@@ -5,7 +5,7 @@
 	"Base" :
 	{
 		"surfaceGravity" : 1,
-		"surfaceSize" : 20,
+		"surfaceSize" : 25,
 		"hasMapMarker" : true,
 		"hasAmbientLight" : true
 	},
@@ -15,9 +15,12 @@
 		"inclination" : 1,
 		"primaryBody" : "Mars",
 		"isMoon" : true,
-		"longitudeOfAscendingNode" : 0,
-		"eccentricity" : 0,
-		"argumentOfPeriapsis": 0,
+		"longitudeOfAscendingNode" : 169,
+		"eccentricity" : 0.015,
+		"argumentOfPeriapsis": 216,
+		"trueAnomaly": 190,
+		"siderealPeriod" : 50,
+		"isTidallyLocked": true,
 		"axialTilt" : 0
 	},
 	"HeightMap" :

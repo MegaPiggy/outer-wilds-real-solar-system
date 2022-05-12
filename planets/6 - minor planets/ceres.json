@@ -12,9 +12,13 @@
 	"Orbit" :
 	{
 		"semiMajorAxis" : 9525,
-		"inclination" : 3,
-		"trueAnomaly" : 180,
-		"longitudeOfAscendingNode": 80,
+		"inclination" : 10.6,
+		"eccentricity": 0.0785,
+		"trueAnomaly": 291.4,
+		"longitudeOfAscendingNode" : 80.3,
+		"argumentOfPeriapsis": 73.6,
+		"axialTilt" : 4,
+		"siderealPeriod": 18.5,
 		"primaryBody" : "Sol",
 		"isMoon" : true
 	},

@@ -15,11 +15,11 @@
 		"inclination" : 3,
 		"primaryBody" : "Sol",
 		"isMoon" : false,
-		"longitudeOfAscendingNode" : 0,
+		"longitudeOfAscendingNode" : 48,
 		"eccentricity" : 0.1,
-		"argumentOfPeriapsis": 0,
+		"argumentOfPeriapsis": 29,
 		"axialTilt" : 2,
-		"trueAnomaly" : 0,
+		"trueAnomaly" : 174,
 		"isTidallyLocked" : true,
 		"tint" : 
 		{

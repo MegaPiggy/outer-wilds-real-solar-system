@@ -15,10 +15,13 @@
 		"inclination" : 1,
 		"primaryBody" : "Mars",
 		"isMoon" : true,
-		"longitudeOfAscendingNode" : 0,
+		"longitudeOfAscendingNode" : 54,
 		"eccentricity" : 0,
 		"argumentOfPeriapsis": 0,
-		"axialTilt" : 0
+		"axialTilt" : 1,
+		"trueAnomaly": 205,
+		"siderealPeriod" : 50,
+		"isTidallyLocked": true
 	},
 	"HeightMap" :
 	{
