@@ -11,15 +11,19 @@
 	},
 	"Orbit" :
 	{
-		"semiMajorAxis" : 1600,
+		"semiMajorAxis" : 1800,
 		"primaryBody" : "Jupiter",
 		"isMoon" : true,
 		"isTidallyLocked" : true,
-		"trueAnomaly" : 200
+		"trueAnomaly" : 200,
+		"eccentricity": 0.007,
+		"inclination" : 2,
+		"longitudeOfAscendingNode": 309,
+		"argumentOfPeriapsis": 44
 	},
 	"HeightMap" :
 	{
-		"heightMap" : "planets/assets/blank_heightmap.png",	
+		"heightMap" : "planets/assets/callisto_heightmap.png",	
 		"textureMap" : "planets/assets/callisto_texturemap.png",	
 		"minHeight" : 100,
 		"maxHeight" : 100
