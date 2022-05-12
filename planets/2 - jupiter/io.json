@@ -11,7 +11,7 @@
 	},
 	"Orbit" :
 	{
-		"semiMajorAxis" : 921,
+		"semiMajorAxis" : 1100,
 		"primaryBody" : "Jupiter",
 		"isMoon" : true,
 		"isTidallyLocked" : true,

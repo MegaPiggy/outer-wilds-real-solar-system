@@ -11,7 +11,7 @@
 	},
 	"Orbit" :
 	{
-		"semiMajorAxis" : 870,
+		"semiMajorAxis" : 900,
 		"primaryBody" : "Jupiter",
 		"isMoon" : true,
 		"trueAnomaly" : 86,

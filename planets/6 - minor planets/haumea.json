@@ -11,7 +11,7 @@
 	},
 	"Orbit" :
 	{
-		"semiMajorAxis" : 24175,
+		"semiMajorAxis" : 24500,
 		"inclination" : 28,
 		"trueAnomaly" : 218,
 		"eccentricity": 0.2,
@@ -27,9 +27,9 @@
 		"minHeight": 88,
 		"maxHeight": 90,
 		"stretch":{
-			"x": 1.1428572,
+			"x": 1.6,
 			"y": 0.72727275,
-			"z": 1.6
+			"z": 1.1428572
 		}
 	}
 }
