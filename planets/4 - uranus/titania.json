@@ -11,17 +11,21 @@
 	},
 	"Orbit" :
 	{
-		"semiMajorAxis" : 1200,
+		"semiMajorAxis" : 735,
 		"primaryBody" : "Uranus",
 		"isMoon" : true,
-		"inclination" : 97,
-		"isTidallyLocked" : true
+		"inclination" : 17,
+		"eccentricity" : 0.22,
+		"trueAnomaly": 318,
+		"longitudeOfAscendingNode": 76,
+		"argumentOfPeriapsis": 31,
+		"siderealPeriod" : 424
 	},
 	"HeightMap" :
 	{
-		"heightMap" : "planets/assets/blank_heightmap.png",	
+		"heightMap" : "planets/assets/titania_heightmap.png",	
 		"textureMap" : "planets/assets/titania_texturemap.png",	
-		"minHeight" : 45,
+		"minHeight" : 43,
 		"maxHeight" : 45
 	}
 }
