@@ -7,21 +7,21 @@
 		"surfaceGravity" : 1,
 		"surfaceSize" : 25,
 		"hasMapMarker" : true,
-		"hasAmbientLight" : true
+		"hasAmbientLight" : false
 	},
 	"Orbit" :
 	{
-		"semiMajorAxis" : 400,
-		"inclination" : 1,
+		"semiMajorAxis" : 350,
+		"inclination" : 26,
 		"primaryBody" : "Mars",
 		"isMoon" : true,
 		"longitudeOfAscendingNode" : 169,
 		"eccentricity" : 0.015,
 		"argumentOfPeriapsis": 216,
 		"trueAnomaly": 190,
-		"siderealPeriod" : 50,
-		"isTidallyLocked": true,
-		"axialTilt" : 0
+		"axialTilt" : 25,
+		"isTidallyLocked" : true,
+		"alignmentAxis": {"x": -1, "y": 0, "z": 0}
 	},
 	"HeightMap" :
 	{
