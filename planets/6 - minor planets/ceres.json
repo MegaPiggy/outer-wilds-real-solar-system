@@ -11,14 +11,14 @@
 	},
 	"Orbit" :
 	{
-		"semiMajorAxis" : 9525,
+		"semiMajorAxis" : 10000,
 		"inclination" : 10.6,
 		"eccentricity": 0.0785,
 		"trueAnomaly": 291.4,
 		"longitudeOfAscendingNode" : 80.3,
 		"argumentOfPeriapsis": 73.6,
 		"axialTilt" : 4,
-		"siderealPeriod": 18.5,
+		"siderealPeriod": 1.85,
 		"primaryBody" : "Sol",
 		"isMoon" : true
 	},
