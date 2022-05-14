@@ -2,7 +2,16 @@
 	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/master/NewHorizons/translation_schema.json",
     "DialogueDictionary" :
     	{
-		"" : ""
+		"Jammer" : "Джеммер",
+		"Speical birthday gift!" : "С днём рождения!",
+		"Wahoo!" : "Вау!",
+		"Ur winning!" : "Ты выиграл!",
+		"Im winning!" : "Я выиграл!",
+		"Will fund!" : "НАЙДУ!",
+		"HOT" : "ГОРЯЧО",
+		"YAY!!~!!!" : "УРА!!~!!!",
+		"Oak doak!" : "Ока-дока!",
+		"Bestest day!" : "Лучший день в мире!"
    	},
     "ShipLogDictionary" :
     	{
@@ -59,14 +68,18 @@
 		"Proxima B" : "Проксима B",
 		"Proxima C" : "Проксима C",
 		"Proxima Centauri" : "Проксима Центавра",
-
+		
+		
+		"Barnard's Star" : "Звезда Барнарда",
+		"Barnard's B" : "Звезда Барнарда b",
 		
 		
 		"Lunar Lander" : "Лунный модуль",
 		"Perserverance Rover" : "Марсоход Персеверанс",
 		"Cassini" : "Кассини",
 		"Russel's Teapot" : "Чайник Рассела",
-		"Voyager" : "Вояджер"
+		"Voyager" : "Вояджер",
+		"Jammer" : "Джеммер"
 		
     }
 }
