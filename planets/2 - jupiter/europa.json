@@ -28,5 +28,11 @@
 		"textureMap" : "planets/assets/europa_texturemap.png",	
 		"minHeight" : 68,
 		"maxHeight" : 70
+	},
+	"ShipLog" : {
+		"spriteFolder": "planets/shiplogs/sprites",
+		"MapMode" : {
+			"revealedSprite": "planets/shiplogs/icons/er.png"
+		}
 	}
 }
