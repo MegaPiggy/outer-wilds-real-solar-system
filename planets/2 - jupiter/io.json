@@ -11,15 +11,16 @@
 	},
 	"Orbit" :
 	{
-		"semiMajorAxis" : 1100,
+		"semiMajorAxis" : 1300,
 		"primaryBody" : "Jupiter",
 		"isMoon" : true,
-		"isTidallyLocked" : true,
 		"eccentricity": 0.004,
 		"inclination" : 2.2,
 		"trueAnomaly": 331,
-		"longitudeOfAscendingNode": 0,
+		"longitudeOfAscendingNode": 180,
 		"argumentOfPeriapsis": 49,
+		"isTidallyLocked" : true,
+		"alignmentAxis": {"x": -1, "y": 0, "z": 0}
 	},
 	"Atmosphere" :
 	{

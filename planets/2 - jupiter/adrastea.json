@@ -11,15 +11,12 @@
 	},
 	"Orbit" :
 	{
-		"semiMajorAxis" : 700,
-		"inclination" : 0.03,
+		"semiMajorAxis" : 1100,
+		"inclination" : 3.03,
 		"primaryBody" : "Jupiter",
 		"isMoon" : true,
-		"longitudeOfAscendingNode" : 0,
+		"longitudeOfAscendingNode" : 180,
 		"eccentricity" : 0.0015,
-		"trueAnomaly": 0,
-		"argumentOfPeriapsis": 0,
-		"axialTilt" : 0,
 		"isTidallyLocked" : true
 	},
 	"HeightMap" :

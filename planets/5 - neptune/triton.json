@@ -7,21 +7,24 @@
 		"surfaceGravity" : 4,
 		"surfaceSize" : 65,
 		"hasMapMarker" : true,
-		"hasAmbientLight" : true
+		"hasAmbientLight" : false
 	},
 	"Orbit" :
 	{
-		"semiMajorAxis" : 654,
-		"inclination" : 156,
+		"semiMajorAxis" : 1200,
+		"inclination" : 130,
+		"longitudeOfAscendingNode": 0,
 		"primaryBody" : "Neptune",
 		"isMoon" : true,
-		"isTidallyLocked" : true
+		"isTidallyLocked" : true,
+		"axialTilt": 130,
+		"alignmentAxis": {"x": -1, "y": 0, "z": 0}
 	},
 	"HeightMap" :
 	{
 		"heightMap" : "planets/assets/triton_heightmap.png",	
 		"textureMap" : "planets/assets/triton_texturemap.png",	
-		"minHeight" : 63,
+		"minHeight" : 65,
 		"maxHeight" : 65
 	},
 	"ShipLog" : {
