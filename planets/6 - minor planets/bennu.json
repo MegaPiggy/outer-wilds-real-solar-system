@@ -5,7 +5,7 @@
 	"Base" :
 	{
 		"surfaceGravity" : 3,
-		"surfaceSize" : 30,
+		"surfaceSize" : 10,
 		"hasMapMarker" : true,
 		"hasAmbientLight" : true
 	},
@@ -23,8 +23,8 @@
 	"HeightMap" :
 	{
 		"heightMap" : "planets/assets/bennu_heightmap.png",	
-		"textureMap" : "planets/assets/bennu_texturemap.png",	
-		"minHeight" : 28,
-		"maxHeight" : 30
+		"textureMap" : "planets/assets/bennu_texturemap.png",
+		"minHeight" : 9,
+		"maxHeight" : 10
 	}
 }
