@@ -24,8 +24,8 @@
 	},
 	"Ring" :
 	{
-		"innerRadius" : 20,
-		"outerRadius" : 25,
+		"innerRadius" : 19,
+		"outerRadius" : 21,
 		"texture": "planets/assets/chariklo_rings.png"
 	},
 	"HeightMap" :
