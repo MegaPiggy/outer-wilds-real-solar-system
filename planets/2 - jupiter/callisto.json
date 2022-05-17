@@ -7,19 +7,19 @@
 		"surfaceGravity" : 4,
 		"surfaceSize" : 100,
 		"hasMapMarker" : true,
-		"hasAmbientLight" : true
+		"hasAmbientLight" : false
 	},
 	"Orbit" :
 	{
-		"semiMajorAxis" : 1800,
+		"semiMajorAxis" : 2300,
 		"primaryBody" : "Jupiter",
+		"inclination": 3,
+		"eccentricity": 0.0074,
+		"longitudeOfAscendingNode": 180,
 		"isMoon" : true,
 		"isTidallyLocked" : true,
 		"trueAnomaly" : 200,
-		"eccentricity": 0.007,
-		"inclination" : 2,
-		"longitudeOfAscendingNode": 309,
-		"argumentOfPeriapsis": 44
+		"alignmentAxis": {"x": -1, "y": 0, "z": 0}
 	},
 	"HeightMap" :
 	{

@@ -7,26 +7,26 @@
 		"surfaceGravity" : 4,
 		"surfaceSize" : 100,
 		"hasMapMarker" : true,
-		"hasAmbientLight" : true
+		"hasAmbientLight" : false
 	},
 	"Orbit" :
 	{
-		"semiMajorAxis" : 1500,
+		"semiMajorAxis" : 1900,
 		"primaryBody" : "Jupiter",
+		"inclination": 3,
+		"longitudeOfAscendingNode": 180,
+		"eccentricity": 0.0013,
+		"axialTilt" : 0.165,
 		"isMoon" : true,
 		"trueAnomaly" : 298,
 		"isTidallyLocked" : true,
-		"eccentricity": 0.001,
-		"inclination" : 2,
-		"axialTilt" : 0.33,
-		"longitudeOfAscendingNode": 59,
-		"argumentOfPeriapsis": 198.3
+		"alignmentAxis": {"x": -1, "y": 0, "z": 0}
 	},
 	"HeightMap" :
 	{
 		"heightMap" : "planets/assets/ganymede_heightmap.png",	
 		"textureMap" : "planets/assets/ganymede_texturemap.png",	
-		"minHeight" : 98,
+		"minHeight" : 100,
 		"maxHeight" : 100
 	},
 	"ShipLog" : {

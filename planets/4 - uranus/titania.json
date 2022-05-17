@@ -5,28 +5,26 @@
 	"Base" :
 	{
 		"surfaceGravity" : 4,
-		"surfaceSize" : 45,
+		"surfaceSize" : 40,
 		"hasMapMarker" : true,
-		"hasAmbientLight" : true
+		"hasAmbientLight" : false
 	},
 	"Orbit" :
 	{
-		"semiMajorAxis" : 900,
+		"semiMajorAxis" : 1300,
 		"primaryBody" : "Uranus",
 		"isMoon" : true,
-		"inclination" : 17,
-		"eccentricity" : 0.22,
-		"trueAnomaly": 318,
-		"longitudeOfAscendingNode": 76,
-		"argumentOfPeriapsis": 31,
-		"siderealPeriod" : 424
+		"inclination" : 97,
+		"longitudeOfAscendingNode": 180,
+		"isTidallyLocked" : true,
+		"alignmentAxis": {"x": -1, "y": 0, "z": 0}
 	},
 	"HeightMap" :
 	{
 		"heightMap" : "planets/assets/titania_heightmap.png",	
 		"textureMap" : "planets/assets/titania_texturemap.png",	
-		"minHeight" : 43,
-		"maxHeight" : 45
+		"minHeight" : 38,
+		"maxHeight" : 40
 	},
 	"ShipLog" : {
 		"spriteFolder": "planets/shiplogs/sprites",
