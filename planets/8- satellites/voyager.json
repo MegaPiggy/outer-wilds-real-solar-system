@@ -6,7 +6,7 @@
 	{
 		"surfaceGravity" : 0,
 		"hasMapMarker" : false,
-		"isSatellite" : true
+		"showMinimap": false
 	},
 	"Orbit" :
 	{
@@ -14,6 +14,7 @@
 		"primaryBody" : "Proxima Centauri",
 		"showOrbitLine" : true,
 		"dottedOrbitLine": true,
+		"isMoon": true,
 		"eccentricity" : 0.5
 	},
 	"Signal" : 

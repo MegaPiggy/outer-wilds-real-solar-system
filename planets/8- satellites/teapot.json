@@ -6,7 +6,7 @@
 	{
 		"surfaceGravity" : 0,
 		"hasMapMarker" : false,
-		"isSatellite" : true
+		"showMinimap": false
 	},
 	"Orbit" :
 	{
@@ -15,7 +15,8 @@
 		"trueAnomaly" : 65,
 		"primaryBody" : "Sol",
 		"showOrbitLine" : false,
-		"dottedOrbitLine": true
+		"dottedOrbitLine": true,
+		"isMoon": true
 	},
 	"Signal" : 
 	{
@@ -28,7 +29,7 @@
 	{
 		"Details" :
 		[
-			{ "assetBundle" : "planets/assetbundle/rss", "path" : "Assets/RSS/Prefabs/Teapot.prefab" }
+			{ "assetBundle" : "planets/assetbundle/rss", "path" : "Assets/RSS/Prefabs/Teapot.prefab", "scale": 100 }
 		]
 	},
 	"ShipLog" : {

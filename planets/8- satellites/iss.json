@@ -7,7 +7,7 @@
 		"surfaceGravity" : 0,
 		"hasMapMarker" : false,
 		"isSpaceStation" : true,
-		"isSatellite" : true
+		"showMinimap" : false
 	},
 	"Orbit" :
 	{
@@ -20,6 +20,7 @@
 		"inclination" : 51.65,
 		"argumentOfPeriapsis" : 325.5,
 		"trueAnomaly" : 125.41,
+		"isMoon": true,
 		"isTidallyLocked": true
 	},
 	"Signal" : 
