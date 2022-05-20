@@ -12,7 +12,7 @@
 		"semiMajorAxis" : 200000,
 		"primaryBody" : "Sol",
 		"showOrbitLine" : false,
-		"trueAnomaly" : 60,
+		"trueAnomaly" : 220,
 		"isStatic" : true
 	},
 	"FocalPoint" :
