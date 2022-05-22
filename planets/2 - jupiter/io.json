@@ -14,7 +14,7 @@
 		"primaryBody" : "Jupiter",
 		"isMoon" : true,
 		"eccentricity": 0.004,
-		"inclination" : 2.2,
+		"inclination" : 3.05,
 		"trueAnomaly": 331,
 		"longitudeOfAscendingNode": 180,
 		"argumentOfPeriapsis": 49,
@@ -40,6 +40,11 @@
 		"textureMap" : "planets/assets/io_texturemap.png",	
 		"minHeight" : 75,
 		"maxHeight" : 75
+	},
+	"Props":{
+		"volcanoes": [
+			{"position":{"x":75}}
+		]
 	},
 	"ShipLog" : {
 		"spriteFolder": "planets/shiplogs/sprites",
