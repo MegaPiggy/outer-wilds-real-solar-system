@@ -38,7 +38,7 @@
 	{
 		"heightMap" : "planets/assets/io_heightmap.png",	
 		"textureMap" : "planets/assets/io_texturemap.png",	
-		"minHeight" : 75,
+		"minHeight" : 73,
 		"maxHeight" : 75
 	},
 	"Props":{
