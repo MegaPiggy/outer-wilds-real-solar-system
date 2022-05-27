@@ -24,7 +24,7 @@
 	{
 		"heightMap" : "planets/assets/europa_heightmap.png",	
 		"textureMap" : "planets/assets/europa_texturemap.png",	
-		"minHeight" : 70,
+		"minHeight" : 68,
 		"maxHeight" : 70
 	},
 	"ShipLog" : {
