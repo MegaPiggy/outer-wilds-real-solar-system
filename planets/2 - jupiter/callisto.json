@@ -24,7 +24,7 @@
 	{
 		"heightMap" : "planets/assets/callisto_heightmap.png",	
 		"textureMap" : "planets/assets/callisto_texturemap.png",	
-		"minHeight" : 100,
+		"minHeight" : 95,
 		"maxHeight" : 100
 	},
 	"ShipLog" : {
