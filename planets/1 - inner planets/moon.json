@@ -11,7 +11,7 @@
 	"Orbit" :
 	{
 		"semiMajorAxis" : 800,
-		"inclination" : 5,
+		"inclination" : 5.1,
 		"primaryBody" : "Earth",
 		"isMoon" : true,
 		"longitudeOfAscendingNode" : 125,
